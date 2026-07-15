@@ -1,0 +1,20 @@
+h1{font-size:100px;color:white;font-family:cursive;font-weight:bold;text-align:center;}
+body{background-color:black;}
+.flex-container{
+    display: flex;
+    flex-flow: nowrap;
+    justify-content: space-evenly;
+     align-items: baseline;
+
+}
+.text-content{
+    background-color: rgb(76, 216, 193);
+    width: 900px;
+    height: 300px;
+    margin: 100px;
+    text-align: center;
+    line-height: 300px;
+    font-size: 10px;
+    color: black;
+    border: 50px solid white;
+}
